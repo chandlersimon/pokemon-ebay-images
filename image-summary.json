@@ -1,0 +1,21 @@
+{
+  "photo_groups": 53,
+  "converted_images": 260,
+  "mapped_skus": 53,
+  "unmapped_skus_within_first_55": [
+    "PKM-011",
+    "PKM-053"
+  ],
+  "four_photo_groups": [
+    1,
+    2,
+    4,
+    8,
+    11,
+    53
+  ],
+  "six_photo_groups": [
+    9
+  ],
+  "staging_repo": "/Users/chandlersimon/Desktop/pokemon/.codex_work/pokemon-ebay-images"
+}
