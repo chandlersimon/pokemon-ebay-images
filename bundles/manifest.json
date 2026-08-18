@@ -1,0 +1,282 @@
+[
+  {
+    "bundle_type": "fire",
+    "photo_number": 1,
+    "source_file": "IMG_5876 2.heic",
+    "hosted_file": "bundles/fire-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/fire-01.jpg"
+  },
+  {
+    "bundle_type": "fighting",
+    "photo_number": 1,
+    "source_file": "IMG_5877.heic",
+    "hosted_file": "bundles/fighting-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/fighting-01.jpg"
+  },
+  {
+    "bundle_type": "fighting",
+    "photo_number": 2,
+    "source_file": "IMG_5879.HEIC",
+    "hosted_file": "bundles/fighting-02.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/fighting-02.jpg"
+  },
+  {
+    "bundle_type": "fighting",
+    "photo_number": 3,
+    "source_file": "IMG_5880.HEIC",
+    "hosted_file": "bundles/fighting-03.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/fighting-03.jpg"
+  },
+  {
+    "bundle_type": "fighting",
+    "photo_number": 4,
+    "source_file": "IMG_5881.HEIC",
+    "hosted_file": "bundles/fighting-04.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/fighting-04.jpg"
+  },
+  {
+    "bundle_type": "psychic",
+    "photo_number": 1,
+    "source_file": "IMG_5882.heic",
+    "hosted_file": "bundles/psychic-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/psychic-01.jpg"
+  },
+  {
+    "bundle_type": "psychic",
+    "photo_number": 2,
+    "source_file": "IMG_5883.HEIC",
+    "hosted_file": "bundles/psychic-02.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/psychic-02.jpg"
+  },
+  {
+    "bundle_type": "psychic",
+    "photo_number": 3,
+    "source_file": "IMG_5884.HEIC",
+    "hosted_file": "bundles/psychic-03.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/psychic-03.jpg"
+  },
+  {
+    "bundle_type": "psychic",
+    "photo_number": 4,
+    "source_file": "IMG_5885.HEIC",
+    "hosted_file": "bundles/psychic-04.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/psychic-04.jpg"
+  },
+  {
+    "bundle_type": "water",
+    "photo_number": 1,
+    "source_file": "IMG_5886.heic",
+    "hosted_file": "bundles/water-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/water-01.jpg"
+  },
+  {
+    "bundle_type": "water",
+    "photo_number": 2,
+    "source_file": "IMG_5887.HEIC",
+    "hosted_file": "bundles/water-02.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/water-02.jpg"
+  },
+  {
+    "bundle_type": "water",
+    "photo_number": 3,
+    "source_file": "IMG_5888.HEIC",
+    "hosted_file": "bundles/water-03.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/water-03.jpg"
+  },
+  {
+    "bundle_type": "water",
+    "photo_number": 4,
+    "source_file": "IMG_5889.HEIC",
+    "hosted_file": "bundles/water-04.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/water-04.jpg"
+  },
+  {
+    "bundle_type": "water",
+    "photo_number": 5,
+    "source_file": "IMG_5890.HEIC",
+    "hosted_file": "bundles/water-05.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/water-05.jpg"
+  },
+  {
+    "bundle_type": "water",
+    "photo_number": 6,
+    "source_file": "IMG_5891.HEIC",
+    "hosted_file": "bundles/water-06.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/water-06.jpg"
+  },
+  {
+    "bundle_type": "dark",
+    "photo_number": 1,
+    "source_file": "IMG_5892.HEIC",
+    "hosted_file": "bundles/dark-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/dark-01.jpg"
+  },
+  {
+    "bundle_type": "electric",
+    "photo_number": 1,
+    "source_file": "IMG_5893.HEIC",
+    "hosted_file": "bundles/electric-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/electric-01.jpg"
+  },
+  {
+    "bundle_type": "electric",
+    "photo_number": 2,
+    "source_file": "IMG_5894.HEIC",
+    "hosted_file": "bundles/electric-02.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/electric-02.jpg"
+  },
+  {
+    "bundle_type": "electric",
+    "photo_number": 3,
+    "source_file": "IMG_5895.HEIC",
+    "hosted_file": "bundles/electric-03.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/electric-03.jpg"
+  },
+  {
+    "bundle_type": "electric",
+    "photo_number": 4,
+    "source_file": "IMG_5896.HEIC",
+    "hosted_file": "bundles/electric-04.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/electric-04.jpg"
+  },
+  {
+    "bundle_type": "electric",
+    "photo_number": 5,
+    "source_file": "IMG_5897.HEIC",
+    "hosted_file": "bundles/electric-05.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/electric-05.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 1,
+    "source_file": "IMG_5899.HEIC",
+    "hosted_file": "bundles/grass-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-01.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 2,
+    "source_file": "IMG_5900.heic",
+    "hosted_file": "bundles/grass-02.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-02.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 3,
+    "source_file": "IMG_5901.HEIC",
+    "hosted_file": "bundles/grass-03.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-03.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 4,
+    "source_file": "IMG_5902.HEIC",
+    "hosted_file": "bundles/grass-04.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-04.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 5,
+    "source_file": "IMG_5903.HEIC",
+    "hosted_file": "bundles/grass-05.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-05.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 6,
+    "source_file": "IMG_5904.HEIC",
+    "hosted_file": "bundles/grass-06.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-06.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 7,
+    "source_file": "IMG_5905.HEIC",
+    "hosted_file": "bundles/grass-07.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-07.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 8,
+    "source_file": "IMG_5906.HEIC",
+    "hosted_file": "bundles/grass-08.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-08.jpg"
+  },
+  {
+    "bundle_type": "grass",
+    "photo_number": 9,
+    "source_file": "IMG_5907.HEIC",
+    "hosted_file": "bundles/grass-09.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/grass-09.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 1,
+    "source_file": "IMG_5908.heic",
+    "hosted_file": "bundles/colorless-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-01.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 2,
+    "source_file": "IMG_5909.HEIC",
+    "hosted_file": "bundles/colorless-02.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-02.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 3,
+    "source_file": "IMG_5910.HEIC",
+    "hosted_file": "bundles/colorless-03.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-03.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 4,
+    "source_file": "IMG_5911.HEIC",
+    "hosted_file": "bundles/colorless-04.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-04.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 5,
+    "source_file": "IMG_5912.HEIC",
+    "hosted_file": "bundles/colorless-05.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-05.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 6,
+    "source_file": "IMG_5913.HEIC",
+    "hosted_file": "bundles/colorless-06.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-06.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 7,
+    "source_file": "IMG_5914.HEIC",
+    "hosted_file": "bundles/colorless-07.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-07.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 8,
+    "source_file": "IMG_5915.HEIC",
+    "hosted_file": "bundles/colorless-08.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-08.jpg"
+  },
+  {
+    "bundle_type": "colorless",
+    "photo_number": 9,
+    "source_file": "IMG_5916.HEIC",
+    "hosted_file": "bundles/colorless-09.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/colorless-09.jpg"
+  },
+  {
+    "bundle_type": "metal",
+    "photo_number": 1,
+    "source_file": "IMG_5917.HEIC",
+    "hosted_file": "bundles/metal-01.jpg",
+    "raw_url": "https://raw.githubusercontent.com/chandlersimon/pokemon-ebay-images/main/bundles/metal-01.jpg"
+  }
+]
