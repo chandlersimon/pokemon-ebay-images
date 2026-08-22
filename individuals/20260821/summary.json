@@ -9,7 +9,7 @@
     "Italian": 3,
     "Metal": 4
   },
-  "excluded_unphotographed_output_record": "Pokemon Neo Genesis Shuckle 72/111 WOTC 2000",
+  "assigned_to_grass_bundle": "Pokemon Neo Genesis Shuckle 72/111 WOTC 2000",
   "draft_csv": "drafts/pokemon-individual-drafts-2026-08-21.csv",
   "manifest": "individuals/20260821/manifest.csv"
 }
