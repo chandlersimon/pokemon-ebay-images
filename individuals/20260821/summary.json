@@ -1,0 +1,15 @@
+{
+  "draft_listings": 43,
+  "hosted_images": 215,
+  "photos_per_listing": 5,
+  "types": {
+    "Dark": 4,
+    "Electric": 2,
+    "Grass": 30,
+    "Italian": 3,
+    "Metal": 4
+  },
+  "excluded_unphotographed_output_record": "Pokemon Neo Genesis Shuckle 72/111 WOTC 2000",
+  "draft_csv": "drafts/pokemon-individual-drafts-2026-08-21.csv",
+  "manifest": "individuals/20260821/manifest.csv"
+}
