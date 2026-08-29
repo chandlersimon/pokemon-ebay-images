@@ -1,6 +1,6 @@
 {
-  "draft_listings": 98,
-  "hosted_images": 490,
+  "draft_listings": 133,
+  "hosted_images": 665,
   "photos_per_listing": 5,
   "types": {
     "Dark": 4,
@@ -8,7 +8,9 @@
     "Grass": 30,
     "Italian": 15,
     "Metal": 4,
-    "Psychic": 28
+    "Psychic": 28,
+    "Fighting": 20,
+    "Fire": 15
   },
   "assigned_to_grass_bundle": "Pokemon Neo Genesis Shuckle 72/111 WOTC 2000",
   "draft_csv": "drafts/pokemon-individual-drafts-2026-08-21.csv",
