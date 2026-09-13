@@ -1,0 +1,11 @@
+{
+  "draft_listings": 43,
+  "hosted_images": 215,
+  "photos_per_listing": 5,
+  "types": {
+    "Colorless": 43
+  },
+  "source_photo_range": "IMG_6966.HEIC through IMG_7182.HEIC (numeric order; IMG_7000 and IMG_7040 absent)",
+  "draft_csv": "drafts/pokemon-colorless-individual-drafts-2026-09-13.csv",
+  "manifest": "individuals/20260913/manifest.csv"
+}
