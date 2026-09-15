@@ -1,0 +1,11 @@
+{
+  "draft_listings": 64,
+  "hosted_images": 320,
+  "photos_per_listing": 5,
+  "types": {
+    "Water": 64
+  },
+  "source_photo_range": "IMG_7191.HEIC through IMG_7511.HEIC (numeric order; IMG_7351 absent)",
+  "draft_csv": "drafts/pokemon-water-individual-drafts-2026-09-15.csv",
+  "manifest": "individuals/20260915/manifest.csv"
+}
